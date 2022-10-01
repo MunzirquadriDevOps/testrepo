@@ -1,3 +1,0 @@
-telesto
-ymir
-droneshot
